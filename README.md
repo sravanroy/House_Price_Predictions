@@ -1,3 +1,4 @@
 # House_Price_Predictions
 
-Team Project where we trained a blend of 3 Machine Learning algorithms to predict the final prices of California houses; data set hosted in the kaggle website
+* Predicted the house prices with a blend of 3 Machine Learning algorithms(Light GBM, Gradient Boost and ENet)
+* The project workflow is given in my website[!http://sravanroy.com/house_prediction.html]
